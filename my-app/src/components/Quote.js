@@ -8,7 +8,7 @@ const DivStyles = styled.div`
     padding: 30px;
     border: 2px solid lavender;
     border-radius: 20px;
-    margin: 20px 40px;
+    margin: 60px 40px;
     background: seashell;
 `;
 
@@ -18,7 +18,7 @@ const H1Styles = styled.h1`
     font-style: oblique;
 `;
 
-const QuoteStyles = styled.h5`
+const QuoteStyles = styled.p`
     font-family: monospace;
     font-size: 1rem;
     padding: 10px;
